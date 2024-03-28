@@ -1,0 +1,17 @@
+{
+    "name": "php/test-backend",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "thangnguyen",
+            "email": "thangtb100@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
